@@ -37,6 +37,9 @@ h3{
 p {
   line-height: 2;
 }
+.middle-container{
+  font-family: 'Montserrat', sans-serif;
+}
 .intro{
   width: 30%;
   margin: auto;
